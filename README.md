@@ -1,7 +1,7 @@
 # Axranka Bot
 
 <div align="center">
-  <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-5640-622f-9699-328691773283/raw?se=2025-04-17T20%3A38%3A08Z&sp=r&sv=2024-08-04&sr=b&scid=067fa9f3-cef3-50eb-8a1b-169257a4dc5c&skoid=54ae6e2b-352e-4235-bc96-afa2512cc978&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-17T07%3A24%3A04Z&ske=2025-04-18T07%3A24%3A04Z&sks=b&skv=2024-08-04&sig=9VRxhTcW518xWcimriwcXbuaSoqpRBrGcMFl4zyua24%3D?height=200&width=200" alt="Axranka Bot Logo">
+  <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-5640-622f-9699-328691773283/raw?se=2025-04-17T20%3A38%3A08Z&sp=r&sv=2024-08-04&sr=b&scid=067fa9f3-cef3-50eb-8a1b-169257a4dc5c&skoid=54ae6e2b-352e-4235-bc96-afa2512cc978&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-17T07%3A24%3A04Z&ske=2025-04-18T07%3A24%3A04Z&sks=b&skv=2024-08-04&sig=9VRxhTcW518xWcimriwcXbuaSoqpRBrGcMFl4zyua24%3D" alt="Axranka Bot Logo">
   <h3>Guruhlarni boshqarish va himoya qilish uchun kuchli Telegram bot</h3>
 </div>
 
